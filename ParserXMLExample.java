@@ -8,9 +8,7 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.IOException;
 
-/**
- * Created by USER on 06.03.2017.
- */
+
 public class ParserXMLExample {
     public static void main(String[] args) throws ParserConfigurationException, IOException, SAXException {
 //        создаем фабрику производителя документов
